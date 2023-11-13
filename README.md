@@ -10,7 +10,7 @@
 <a href="https://www.figma.com/file/E1oHdHNTDN2JSURAtiJYXA/Leydy-Bel%C3%A9n-Mora-P%C3%A9rez?type=design&node-id=0-1&mode=design&t=67F4SxdlsA0b3VqA-0">link de figma</a>
 
 <h2>Punto 2: Diseño en HTML</h2>
-
+<img src="./public/images/punto-2.png" alt="punto 2">
 <h2>Punto 3: Diseño con CSS</h2>
 
 <h2>Punto 4: Títulos</h2>
