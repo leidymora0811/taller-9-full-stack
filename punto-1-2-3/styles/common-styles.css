@@ -1,0 +1,11 @@
+a {
+    font-family: "Jost";
+}
+
+button {
+    padding: 10px 25px;
+    font-family: "Jost";
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+}
