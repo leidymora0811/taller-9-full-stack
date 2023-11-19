@@ -4,7 +4,7 @@
     padding: 80px;
     background: linear-gradient(313deg, #EE9AB5 3.28%, #5961F9 97.04%);
     border-radius: 48px 48px 300px  48px;
-    
+    color: white;
 }
 
 h1 {
@@ -21,8 +21,9 @@ h1 {
     height: 370px;
 }
 
-.banner__texts p {
-    font-family: "Jost";
+.button--transparent {
+    background-color: transparent;
     color: white;
-    font-size: 14px;
+    border: 1px solid;
+    margin-left: 20px;
 }
