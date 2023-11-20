@@ -1,0 +1,38 @@
+body {
+    margin: 100px 160px;
+    padding: 80px 200px;
+    display: flex;
+    width: 50%;
+    
+}
+
+p {
+    font-family: "Jost";
+    font-size: 20px;
+}
+
+.entiendo {
+    color:green;
+}
+
+.enemigo {
+    color: red;
+}
+
+.entiendo2 {
+    text-decoration: overline underline;
+    
+}
+
+.derrota {
+    font-size: 30px;
+}
+
+.tambien {
+    color: blue;
+}
+
+.quiero {
+    color: red;
+    text-decoration: underline;
+}

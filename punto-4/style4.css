@@ -5,3 +5,8 @@
 .rojo {
     color: red;
 }
+
+div {
+    margin: 130px 180px;
+    padding: 100px 400px;
+}
